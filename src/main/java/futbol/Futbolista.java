@@ -23,12 +23,6 @@ public abstract class Futbolista implements Comparable<Futbolista> {
 	}
 
 	@Override
-	public int compareTo(Futbolista o) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
-	@Override
 	public boolean equals(Object obj) {
 		// TODO Auto-generated method stub
 		return super.equals(obj);
